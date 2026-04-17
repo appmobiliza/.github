@@ -1,8 +1,4 @@
-# 🚶‍♂️ Mobiliza
-
-> Sistema acessível para gestão e operação do MobiUFAL, promovendo autonomia, privacidade e eficiência no deslocamento de estudantes com deficiência.
-
----
+![Capa do projeto Mobiliza](./.github/cover.png)
 
 ## ✨ Visão geral
 
