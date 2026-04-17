@@ -18,9 +18,6 @@ O Mobiliza transforma esse cenário ao introduzir um ecossistema completo compos
 
 ## 🧩 Problema
 
-> [!NOTE]
-> A ausência de infraestrutura tecnológica compromete diretamente a qualidade do serviço.
-
 O modelo atual apresenta limitações críticas:
 
 | Área              | Problema                                                    |
@@ -120,45 +117,22 @@ Além disso, considera práticas reais do serviço, como:
 
 ---
 
-## 🗂️ Estrutura do projeto (Jira)
-
-<details>
-<summary><strong>📌 Epics principais</strong></summary>
-
-* EP-01 · Autenticação e Perfis
-* EP-02 · Solicitação de Atendimento
-* EP-03 · Disponibilidade dos Bolsistas
-* EP-04 · Registro Automático
-* EP-05 · Dashboard Web
-* EP-06 · Acessibilidade
-* EP-07 · Infraestrutura
-
-</details>
-
----
-
-## ⚡ Prioridade de desenvolvimento
-
-```text
-Sprint 1–2:
-Auth + Solicitação + Atendimento + Registro automático
-
-Sprint 3:
-Disponibilidade + Dashboard + Relatórios + Acessibilidade base
-
-Sprint 4+:
-Refinamentos, histórico, áudio avançado, gestão completa
-```
-
----
-
 ## 🔧 Tecnologias (provisório)
 
-* React Native
-* NativeWind + TailwindCSS
-* Expo
-* Backend (a definir)
-* Dashboard Web
+### App mobile
+
+| Tecnologia | Eixo |
+| ---------- | ----- |
+| React Native + Expo | Desenvolvimento |
+| NativeWind + TailwindCSS | Estilização |
+
+### Dashboard web
+
+A definir...
+
+### Backend
+
+A definir...
 
 ---
 
